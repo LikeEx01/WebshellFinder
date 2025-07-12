@@ -1,4 +1,4 @@
-# Webshell-Finder
+# WebShell-Scanner 
 
 ## Badge
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -8,9 +8,11 @@
 ![Made With](https://img.shields.io/badge/made%20with-Python-orange)
 ![Status](https://img.shields.io/badge/status-active-success)
 
+![WebShell Scanner Banner](https://h.top4top.io/p_3480ppnz33.jpg)
+
 ## Deskripsi
 
-**WebShell Scanner (WebshellFinder)** adalah alat pemindaian otomatis untuk mendeteksi keberadaan file backdoor atau webshell pada ribuan situs. Tools ini bekerja dengan cara mencocokkan path berbahaya terhadap daftar target dan memeriksa signature khas dari berbagai jenis WebShell.
+**WebShell Scanner (WebSehllFinder)** adalah alat pemindaian otomatis untuk mendeteksi keberadaan file backdoor atau webshell pada ribuan situs. Tools ini bekerja dengan cara mencocokkan path berbahaya terhadap daftar target dan memeriksa signature khas dari berbagai jenis WebShell.
 
 Hasil deteksi akan disimpan secara lokal ke file.
 
@@ -50,7 +52,7 @@ pip3 install requests colorama urllib3
 
 1. Clone repo:
 ```bash
-git clone https://github.com/LikeEx01/WebShell-Scanner.git
+git clone https://github.com/LikeEx01/WebshellFinder.git
 cd WebShell-Scanner
 ```
 
@@ -97,4 +99,4 @@ Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/M
 - Telegram: [LikeEx01](https://t.me/usernamee1337)
 - GitHub: [LikeEx01](https://github.com/LikeEx01)
 
-🔗 **Repo GitHub:** [https://github.com/LikeEx01/WebShell-Scanner](https://github.com/LikeEx01/WebShell-Scanner)
+🔗 **Repo GitHub:** [https://github.com/LikeEx01/WebShell-Scanner](https://github.com/LikeEx01/WebshellFinder.git)
