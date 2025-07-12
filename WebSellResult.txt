@@ -1,0 +1,5 @@
+http://staging.avprojection.com/dec_backdor.php
+http://demo.meddylist.com/dec_backdor.php
+http://staging.avprojection.com/dec_backdor.php
+http://test.eucareblocks.com/dec_backdor.php
+http://lpk.ssk.in.th/wp-content/themes/ADMIN/admin.php
